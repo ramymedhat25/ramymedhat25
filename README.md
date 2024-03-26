@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ramymedhat25](https://github.com/ramymedhat25)
 
-- 💬 Ask me about **react , python and Django**
+- 💬 Ask me about **React ,Python and Django**
 
 - 📫 How to reach me **ramymedhat97@gmail.com**
 
