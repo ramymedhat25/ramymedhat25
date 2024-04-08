@@ -5,7 +5,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramymedhat25" alt="ramymedhat25" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/ramymedhat6" target="blank"><img src="https://img.shields.io/twitter/follow/ramymedhat6?logo=twitter&style=for-the-badge" alt="ramymedhat6" /></a> </p>
 
 - 🔭 I’m currently working on **many projects**
 
