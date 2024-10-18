@@ -6,15 +6,16 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramymedhat25" alt="ramymedhat25" /></a> </p>
 
 
-- 🔭 I’m currently working on **many projects**
+🔭 I’m currently working on multiple projects, focusing on building scalable applications.
 
-- 🌱 I’m currently learning **Frameworks , courses etc.**
+🌱 I’m currently enhancing my skills in Node.js, React.js, and MongoDB.
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramymedhat25](https://github.com/ramymedhat25)
+👨‍💻 Check out all my projects on GitHub.
 
-- 💬 Ask me about **React ,NodeJS ,Python and Django**
+💬 Ask me about React, Node.js, Python, Django, JavaScript, and Full Stack Development.
 
-- 📫 How to reach me **ramymedhat97@gmail.com**
+📫 You can reach me via ramymedhat97@gmail.com.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
