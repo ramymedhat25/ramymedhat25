@@ -51,8 +51,21 @@
     <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>**
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramymedhat25&show_icons=true&locale=en&layout=compact" alt="ramymedhat25" /></p>
+<!-- GitHub Languages -->
+<div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
+  <h3 style="color: #fff; font-family: Arial, sans-serif;">Most Used Languages</h3>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramymedhat25&show_icons=true&locale=en&layout=compact" alt="ramymedhat25" style="border-radius: 10px;"/>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramymedhat25&show_icons=true&locale=en" alt="ramymedhat25" /></p>
+<!-- GitHub Stats -->
+<div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
+  <h3 style="color: #fff; font-family: Arial, sans-serif;">Ramy Medhat's GitHub Stats</h3>
+  <img src="https://github-readme-stats.vercel.app/api?username=ramymedhat25&show_icons=true&locale=en" alt="ramymedhat25" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramymedhat25&" alt="ramymedhat25" /></p>
+<!-- GitHub Streak -->
+<div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
+  <h3 style="color: #fff; font-family: Arial, sans-serif;">GitHub Streak</h3>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramymedhat25&" alt="ramymedhat25" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
+</div>
+
