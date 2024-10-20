@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ramymedhat25&label=Profile%20views&color=0e75b6&style=flat" alt="ramymedhat25" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramymedhat25" alt="ramymedhat25" /></a> </p>
 
 
 🔭 I’m currently working on multiple projects, focusing on building scalable applications.
@@ -53,22 +52,22 @@
 
 
 
-<!-- GitHub Languages -->
+<!-- GitHub Languages 
 <div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
   <h3 style="color: #fff; font-family: Arial, sans-serif;">Most Used Languages</h3>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ramymedhat25&show_icons=true&locale=en&layout=compact&cache_seconds=1800" alt="ramymedhat25" style="border-radius: 10px;"/>
 </div>
 
-<!-- GitHub Stats -->
+<!-- GitHub Stats
 <div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
   <h3 style="color: #fff; font-family: Arial, sans-serif;">Ramy Medhat's GitHub Stats</h3>
   <img src="https://github-readme-stats.vercel.app/api?username=ramymedhat25&show_icons=true&locale=en&cache_seconds=1800" alt="ramymedhat25" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
 
-<!-- GitHub Streak -->
+<!-- GitHub Streak 
 <div style="display: flex; flex-direction: column; align-items: center; padding: 20px;">
   <h3 style="color: #fff; font-family: Arial, sans-serif;">GitHub Streak</h3>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ramymedhat25&cache_seconds=1800" alt="ramymedhat25" style="border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);"/>
 </div>
-
+ -->
 
